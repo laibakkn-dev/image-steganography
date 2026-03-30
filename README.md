@@ -12,7 +12,7 @@ but can store hidden text.
 
 ## How to run
 1. Install Pillow:  pip install Pillow
-2. Run the app:     python steganography.py
+2. Run the app:     python steganography.ipynb
 
 ## Features
 - Hide a message inside any PNG/JPG image
